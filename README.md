@@ -1,4 +1,4 @@
-# gotry-js
+# gotry
 
 TypeScript/JavaScript error handling inspired by Go's error pattern.
 
