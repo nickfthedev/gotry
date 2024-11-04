@@ -1,5 +1,5 @@
 {
-  "name": "gotry",
+  "name": "@nickfthedev/gotry",
   "version": "1.0.0",
   "description": "Go-style error handling with try-catch wrapper",
   "main": "dist/index.js",
